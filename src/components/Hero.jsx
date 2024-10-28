@@ -10,9 +10,9 @@ const Hero = (props) => {
     >
       <div class="text-center">
         <h1
-          class="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
+          class="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl" 
         >
-           {props.title} Become a React Dev
+           {props.title} 
         </h1>
         <p class="my-4 text-xl text-white">
           {props.subtitle}
